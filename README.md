@@ -1,6 +1,6 @@
 # potential-eureka
  ### AL ###
-#Template for AL projects for Dynamics 365 Business Central
+    #Template for AL projects for Dynamics 365 Busin(..=ess Central
 #launch.json folder
 .vscode/
 #Cache folder
